@@ -1,0 +1,11 @@
+C:\Develop\Hefferon\Narozeniny\Narozeniny\bin\Debug\Narozeniny.exe.config
+C:\Develop\Hefferon\Narozeniny\Narozeniny\bin\Debug\Narozeniny.exe
+C:\Develop\Hefferon\Narozeniny\Narozeniny\bin\Debug\Narozeniny.pdb
+C:\Develop\Hefferon\Narozeniny\Narozeniny\obj\Debug\Narozeniny.csproj.AssemblyReference.cache
+C:\Develop\Hefferon\Narozeniny\Narozeniny\obj\Debug\Narozeniny.csproj.SuggestedBindingRedirects.cache
+C:\Develop\Hefferon\Narozeniny\Narozeniny\obj\Debug\Narozeniny.Form1.resources
+C:\Develop\Hefferon\Narozeniny\Narozeniny\obj\Debug\Narozeniny.Properties.Resources.resources
+C:\Develop\Hefferon\Narozeniny\Narozeniny\obj\Debug\Narozeniny.csproj.GenerateResource.cache
+C:\Develop\Hefferon\Narozeniny\Narozeniny\obj\Debug\Narozeniny.csproj.CoreCompileInputs.cache
+C:\Develop\Hefferon\Narozeniny\Narozeniny\obj\Debug\Narozeniny.exe
+C:\Develop\Hefferon\Narozeniny\Narozeniny\obj\Debug\Narozeniny.pdb
